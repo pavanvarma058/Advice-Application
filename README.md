@@ -5,7 +5,7 @@ This project helped me practice working with **React components, state, events, 
 
 ## Features
 
-- Get random advice with a single click
+- Get random advice with a single click on button
 - Simple and clean user interface
 - Built with reusable React components
 - Uses API data to display dynamic content
